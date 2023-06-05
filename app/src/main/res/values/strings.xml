@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ex07</string>
+    <string name="signin">SignIn</string>
+    <string name="signup">SignUp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ok">OK</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="log_out">log out</string>
+    <string name="you_are_conned_as">You are conned as</string>
+</resources>
